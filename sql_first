@@ -1,0 +1,11 @@
+create database employee --how to create db
+use employee --how to use database
+DROP DATABASE employee --how to delete db but if are using that databse and trying to delete then we can't be delete the database. you can delete another db
+create table employee_table(
+    ID INT,
+    empname VARCHAR(30),
+    addr VARCHAR(40),
+    salary INT
+
+) --how to create table
+
